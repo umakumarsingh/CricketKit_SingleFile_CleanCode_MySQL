@@ -12,7 +12,7 @@ namespace CricketKit
         public int purchaseId { get; set; }
         public string purchaseDate { get; set; }
         public double totalAmount { get; set; }
-        public string user { get; set; }
+        public string userName { get; set; }
 
         /// <summary>
         /// print the purchase records of user

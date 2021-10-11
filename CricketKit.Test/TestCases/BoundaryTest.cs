@@ -86,7 +86,7 @@ namespace CricketKit.Test.TestCases
             try
             {
                 p = Purchase.obtainPurchaseWithAmount(str1);
-                if (p.user == "Jack")
+                if (p.userName == "Jack")
                 {
                     res = true;
                 }

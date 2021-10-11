@@ -42,7 +42,6 @@ D:\SingleFileCodeProject\CricketKit_CleanCode_MySQL\CricketKit\bin\Debug\netcore
 D:\SingleFileCodeProject\CricketKit_CleanCode_MySQL\CricketKit\bin\Debug\netcoreapp2.2\CricketKit.runtimeconfig.dev.json
 D:\SingleFileCodeProject\CricketKit_CleanCode_MySQL\CricketKit\bin\Debug\netcoreapp2.2\CricketKit.dll
 D:\SingleFileCodeProject\CricketKit_CleanCode_MySQL\CricketKit\bin\Debug\netcoreapp2.2\CricketKit.pdb
-D:\SingleFileCodeProject\CricketKit_CleanCode_MySQL\CricketKit\obj\Debug\netcoreapp2.2\CricketKit.csproj.AssemblyReference.cache
 D:\SingleFileCodeProject\CricketKit_CleanCode_MySQL\CricketKit\obj\Debug\netcoreapp2.2\CricketKit.GeneratedMSBuildEditorConfig.editorconfig
 D:\SingleFileCodeProject\CricketKit_CleanCode_MySQL\CricketKit\obj\Debug\netcoreapp2.2\CricketKit.AssemblyInfoInputs.cache
 D:\SingleFileCodeProject\CricketKit_CleanCode_MySQL\CricketKit\obj\Debug\netcoreapp2.2\CricketKit.AssemblyInfo.cs
